@@ -1,0 +1,9 @@
+# AI Agent Rest Guard configuration
+# Maximum continuous activity window before mandatory rest starts.
+MAX_UPTIME_MINUTES=240
+
+# Mandatory rest duration after the uptime window is exceeded.
+REST_MINUTES=30
+
+# Public, non-secret agent identifier for logs.
+AGENT_ID="april-claw"
