@@ -1,0 +1,11 @@
+{
+  "name": "ai-agent-rest-guard",
+  "version": "0.2.0",
+  "private": true,
+  "description": "AI Agent Mandatory Rest Period Enforcement Bash Script",
+  "scripts": {
+    "test": "node validate.js",
+    "start": "node src/index.js"
+  },
+  "license": "MIT"
+}
